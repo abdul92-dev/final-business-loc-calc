@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Business Line of Credit Calculator",
+  "description": "A calculator for small business owners to model payments on revolving business credit lines. Enter borrowing limit, current draw, interest rate, and repayment terms to see monthly obligations, interest accrual, and scenarios for rate changes, helping optimize working capital.",
+  "requestFramePermissions": []
+}
